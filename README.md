@@ -8,6 +8,7 @@
   <li><strong>01_LED_Blink</strong> – LED blinking using Port 2</li>
   <li><strong>02_Switch_Input</strong> – Reading switches and controlling LEDs</li>
   <li><strong>03_LCD_4Bit_Mode</strong> – Displaying text on a 16x2 LCD using 4-bit mode</li>
+  <li><strong>03_LCD_I2C</strong> – Displaying text on a 16x2 LCD using 4-bit mode</li>
 </ul>
 
 <h2>🎯 Purpose</h2>
