@@ -42,9 +42,6 @@
   <li>Send the read characters over serial to display in terminal.</li>
 </ol>
 
-<h2>📷 Output Preview</h2>
-<p><em>(You can add a screenshot or terminal output here.)</em></p>
-
 <h2>📦 Folder Contents</h2>
 <ul>
   <li><code>LCD_I2C.c</code> – Main code with I2C and UART logic</li>
